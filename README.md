@@ -1,7 +1,9 @@
-# Hi there 👋
+## Hi there 👋
 
 
-## Developer at [Hike](https://www.gohike.nl)
+### Developer at [Hike](https://www.gohike.nl). 😎😎
+
+
 
 <!--
 **Giotje/Giotje** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
