@@ -1,3 +1,3 @@
-<h1 align="center">Hello 👋, I'm Giovanni</h1>
-<h3 align="center">I am a web developer @ Hike</h3>
+<h1 align="center">Hello i'm Gio</h1>
+<h3 align="center">And i crash production @Hike</h3>
 
