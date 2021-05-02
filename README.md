@@ -1,8 +1,8 @@
 # Hi there! I'm Giovanni 🎉.
 
 ## I am a engineer working at [Hike](https://www.gohike.nl/)
-<a class="github-button" href="https://github.com/Giotje" data-color-scheme="no-preference: light; light: light; dark: dark;" data-size="large" data-show-count="true" aria-label="Follow @Giotje on GitHub">Follow @Giotje</a>
-<img src="https://www.google.com/maps/uv?pb=!1s0x47c66f5b3e5906cb%3A0x8a64339cfaf281ef!3m1!7e115!4shttps%3A%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipNHN_5DTZ6MheDuy29HeP6KLud6dJPsJEM-6ukI%3Dw320-h320-k-no!5sgohike.nl%20-%20Google%20zoeken!15sCgIgAQ&imagekey=!1e10!2sAF1QipNHN_5DTZ6MheDuy29HeP6KLud6dJPsJEM-6ukI&hl=nl&sa=X&ved=2ahUKEwic1_zT_6vwAhXF6aQKHWiAAIkQoiowCnoECB0QAw#" alt="alt text" width="50" height="50">
+
+<img src="https://i.pinimg.com/originals/ba/d9/2d/bad92d9fae38ef1cddcc069ed3adfba4.gif" alt="alt" width="126" height="126">
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=giotje&show_icons=true&locale=en" alt="giotje" /></p>
