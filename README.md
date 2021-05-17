@@ -1,6 +1,6 @@
 # Hi there! I'm Giovanni 🎉.
 
-## I am a software engineer
+## Fullstack engineer
 
 <img src="https://i.pinimg.com/originals/ba/d9/2d/bad92d9fae38ef1cddcc069ed3adfba4.gif" alt="alt" width="126" height="126">
 
