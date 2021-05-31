@@ -3,7 +3,7 @@
 ## Javascript engineer
 
 <img src="https://i.pinimg.com/originals/ba/d9/2d/bad92d9fae38ef1cddcc069ed3adfba4.gif" alt="alt" width="126" height="126">
-[![Giotje_'s DEV Community Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/giotje)
+[Giotje_'s DEV Community Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/giotje)
     
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=giotje&show_icons=true&locale=en" alt="giotje" /></p>
