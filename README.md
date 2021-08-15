@@ -9,7 +9,4 @@
 3. 🗣 Commented on [#1132](https://github.com/ionic-team/ionic-cli/issues/1132) in [ionic-team/ionic-cli](https://github.com/ionic-team/ionic-cli)
 4. 🗣 Commented on [#15](https://github.com/LeonardSSH/coc-discord-rpc/issues/15) in [LeonardSSH/coc-discord-rpc](https://github.com/LeonardSSH/coc-discord-rpc)
 <!--END_SECTION:activity-->
-
-
-
 ---
