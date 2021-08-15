@@ -1,8 +1,18 @@
 
 
+---
+### :zap: Recent Activity
+
 <!--START_SECTION:activity-->
 
 
+
+
+
+
+<!--END_SECTION:activity-->
+
+---
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=giotje&show_icons=true&locale=en" alt="giotje" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=giotje&" alt="giotje" /></p>
