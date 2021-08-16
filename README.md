@@ -1,4 +1,4 @@
-
+# :zap: My Recent Open Source Activity
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [powercord-org/powercord](https://github.com/powercord-org/powercord)
 2. ⭐ Starred [mattsse/voyager](https://github.com/mattsse/voyager)
