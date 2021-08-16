@@ -1,5 +1,14 @@
 name: Update README
 
+inputs:
+  GH_USERNAME:
+    description: "Your GitHub username"
+    default: ${{ github.repository_owner }}
+    required: false
+  CONFIG_FILE:
+    description: "Path to configuration file"
+    default: "./.github/recent-activity.config.yml"
+    required: false
 on:
   schedule:
     - cron: '*/30 * * * *' # Update every 30 minutes
