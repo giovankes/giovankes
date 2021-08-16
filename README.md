@@ -1,7 +1,7 @@
 
 
 ---
-### :zap: Recent Activity
+### :zap: Recent Open Source Activity
 
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#40](https://github.com/1Lighty/BetterDiscordPlugins/pull/40) in [1Lighty/BetterDiscordPlugins](https://github.com/1Lighty/BetterDiscordPlugins)
