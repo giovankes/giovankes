@@ -1,4 +1,8 @@
-# :zap: My Recent Open Source Activity
+# Hi! 👋
+## My name is Giovanni
+### I am a Javascript engineer from the Netherlands 🇳🇱
+
+### :zap: My Recent Open Source Activity
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [jethrokuan/filenotify-recursive](https://github.com/jethrokuan/filenotify-recursive)
 2. ⭐ Starred [powercord-org/powercord](https://github.com/powercord-org/powercord)
