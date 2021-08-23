@@ -5,6 +5,7 @@
 ### :zap: My Recent Open Source Activity
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [NYRI4/Comfy](https://github.com/NYRI4/Comfy)
+2. ❌ Closed PR [#1](https://github.com/unexpectedtokens/ticketvendor/pull/1) in [unexpectedtokens/ticketvendor](https://github.com/unexpectedtokens/ticketvendor)
 3. ⭐ Starred [AsuharietYgvar/AppleNeuralHash2ONNX](https://github.com/AsuharietYgvar/AppleNeuralHash2ONNX)
 4. ⭐ Starred [sachaos/viddy](https://github.com/sachaos/viddy)
 5. ⭐ Starred [jonaslejon/malicious-pdf](https://github.com/jonaslejon/malicious-pdf)
@@ -17,5 +18,4 @@
 12. ⭐ Starred [Yoctol/bottender](https://github.com/Yoctol/bottender)
 13. 🔱 Forked [Giotje/next.js](https://github.com/Giotje/next.js) from [vercel/next.js](https://github.com/vercel/next.js)
 14. ⭐ Starred [jethrokuan/filenotify-recursive](https://github.com/jethrokuan/filenotify-recursive)
-15. ⭐ Starred [powercord-org/powercord](https://github.com/powercord-org/powercord)
 <!--RECENT_ACTIVITY:end-->
