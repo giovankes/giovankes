@@ -4,7 +4,7 @@
  
  <br>
  
- ### i am a Javascript engineer located in The Netherlands 🇳🇱. i love working on OSS projects, learning new things and helping other people get started too. 🚀
+ ### i am a Javascript engineer located in The Netherlands 🇳🇱. i love working on OSS projects, learning new things and helping other people get started programming too. 🚀
  
  
 -----------
