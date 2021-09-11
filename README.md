@@ -8,7 +8,9 @@
  
  
 -----------
-
+ <a href="https://medium.com/@Giotje">
+    <img src="https://img.shields.io/badge/-Medium-F99A66?style=for-the-badge&logo=Medium&logoColor=white" />
+ </a>
 
 
 
