@@ -11,7 +11,7 @@
  <a href="https://medium.com/@Giotje">
     <img src="https://img.shields.io/badge/-Medium-F99A66?style=for-the-badge&logo=Medium&logoColor=white" />
  </a>
-  <a href="https://dev.top/@Giotje">
+  <a href="https://dev.to/@Giotje">
     <img src="https://img.shields.io/badge/-Dev.To-F99A66?style=for-the-badge&logo=DevTo&logoColor=white" />
  </a>
 
