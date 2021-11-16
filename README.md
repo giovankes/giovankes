@@ -3,16 +3,6 @@
  </p>
  
  <br>
- 
- ### i am a Javascript engineer located in The Netherlands 🇳🇱. i love working on OSS projects, learning new things and helping other people get started with programming too. 🚀
- 
- 
------------
- <a href="https://medium.com/@Giotje">
-    <img src="https://img.shields.io/badge/-Medium-F99A66?style=for-the-badge&logo=Medium&logoColor=white" />
- </a>
-  <a href="https://dev.to/@Giotje">
-    <img src="https://img.shields.io/badge/-Dev-F99A66?style=for-the-badge&logo=DevTo&logoColor=white" />
- </a>
 
------------
+
+# uni student and part-time javascript developer
