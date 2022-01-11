@@ -5,4 +5,5 @@
  <br>
 
 
-# uni student and part-time javascript developer
+
+![](./profile-3d-contrib/profile-green-animate.svg)
