@@ -21,5 +21,5 @@ jobs:
           git config user.name Giotje
           git config user.email devgio@icloud.com          
           git add -A .
-          git commit -m "Personal 3d Contributions images updated"
+          git commit -m "Person:wk-jobal 3d Contributions images updated"
           git push
