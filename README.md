@@ -17,3 +17,6 @@
 
 
 **[forest.host](https://forest.host)**
+
+
+i also study **artificial intelligence**
