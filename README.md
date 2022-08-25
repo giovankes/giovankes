@@ -19,4 +19,4 @@
 **[forest.host](https://forest.host)**
 
 
-i also study **artificial intelligence**
+i also used to study **artificial intelligence**
