@@ -19,4 +19,6 @@
 **[forest.host](https://forest.host)**
 
 
-i also used to study **artificial intelligence**
+currently building my own game called **[spellmight](https://spellmight.online)**. it's no where close to being finished. but u can check it out.
+
+hosted on **[forest.host](https://forest.host)**
