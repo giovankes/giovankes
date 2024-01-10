@@ -2,4 +2,4 @@
 
 > “Every time you write a comment, you should grimace and feel the failure of your ability of expression.”
 > 
-[canopy.host](https://canopy.host)
+[bunny.sh](https://bunny.giotje.dev)
