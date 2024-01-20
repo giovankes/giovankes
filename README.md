@@ -10,6 +10,6 @@
 <br/>
 <br/>
 
-<img width="64" height="64" src="https://canopy.host/favicon/bunny.jpeg"/>
+<img width="64" height="64" src="https://canopy.host/favicon/bunny_favicon.png"/>
 <br/>
 <img width="64" height="64" src="https://canopy.host/favicon/favicon.png"/>
