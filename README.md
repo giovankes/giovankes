@@ -6,6 +6,9 @@
 <br/>
 <br/>
 [canopy.host](https://github.com/canopy-host)
+<br/>
+<br/>
+[spellmight](https://github.com/spellmight)
 
 <br/>
 <br/>
@@ -13,3 +16,5 @@
 <img width="64" height="64" src="https://canopy.host/favicon/bunny_favicon.png"/>
 <br/>
 <img width="64" height="64" src="https://canopy.host/favicon/favicon.png"/>
+<br/>
+<img width="64" height="64" src="https://github.com/giovankes/giovankes/assets/42942538/4b394b7a-8b64-45fe-b741-29ec27350e0c"/>
